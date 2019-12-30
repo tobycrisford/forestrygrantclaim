@@ -11,3 +11,5 @@ You can allocate an area in one corner of your forest, and an area in another co
 The above points mean that maximizing the grant (given a forest plan) is a linear programming problem, with the number of hectares of each tree species in your plan as inputs. The geographical arrangement is essentially irrelevant.
 
 This python script finds the maximum grant.
+
+Current values and schemes in the script are just a demonstration. It needs to be modified before use.
